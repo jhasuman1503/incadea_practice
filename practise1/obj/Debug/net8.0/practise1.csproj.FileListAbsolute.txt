@@ -1,0 +1,14 @@
+C:\Users\suman.jha\source\repos\practise1\practise1\bin\Debug\net8.0\practise1.exe
+C:\Users\suman.jha\source\repos\practise1\practise1\bin\Debug\net8.0\practise1.deps.json
+C:\Users\suman.jha\source\repos\practise1\practise1\bin\Debug\net8.0\practise1.runtimeconfig.json
+C:\Users\suman.jha\source\repos\practise1\practise1\bin\Debug\net8.0\practise1.dll
+C:\Users\suman.jha\source\repos\practise1\practise1\bin\Debug\net8.0\practise1.pdb
+C:\Users\suman.jha\source\repos\practise1\practise1\obj\Debug\net8.0\practise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suman.jha\source\repos\practise1\practise1\obj\Debug\net8.0\practise1.AssemblyInfoInputs.cache
+C:\Users\suman.jha\source\repos\practise1\practise1\obj\Debug\net8.0\practise1.AssemblyInfo.cs
+C:\Users\suman.jha\source\repos\practise1\practise1\obj\Debug\net8.0\practise1.csproj.CoreCompileInputs.cache
+C:\Users\suman.jha\source\repos\practise1\practise1\obj\Debug\net8.0\practise1.dll
+C:\Users\suman.jha\source\repos\practise1\practise1\obj\Debug\net8.0\refint\practise1.dll
+C:\Users\suman.jha\source\repos\practise1\practise1\obj\Debug\net8.0\practise1.pdb
+C:\Users\suman.jha\source\repos\practise1\practise1\obj\Debug\net8.0\practise1.genruntimeconfig.cache
+C:\Users\suman.jha\source\repos\practise1\practise1\obj\Debug\net8.0\ref\practise1.dll
